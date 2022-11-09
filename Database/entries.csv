@@ -1,0 +1,9 @@
+Student Number,Name,Surname,Birthdate,Course Code,Course Name,Course Year,Course Semester,Instructor name,Credits,Grade
+A0002,Alexa,Amazon,12/9/2000,ENG1040,Engineering Dynamics,1,Spring,Andrew Ng,5,B
+A0005,Samantha,Lee,11/4/1999,ECE3073,Computer Systems,3,Autumn,Nader Kamrani,7,C
+A0008,Pauline,Hansom,6/8/1999,ECE4076,Computer Vision,4,Spring,Melanie Ooi,10,A
+A0002,Alexa,Amazon,12/9/2000,ECE2011,Signal Processing,2,Autumn,Kuang Ye Chow,5,C
+A0009,Raj,Koothrapali,3/12/2000,ECE2021,Electromagnetism,2,Autumn,Jussi Parkinnen,5,A
+A0008,Pauline,Hansom,6/8/1999,ECE3091,Engineering Design,3,Autumn,Jon Hardeberg,7,B
+A0008,Pauline,Hansom,6/8/1999,ECE2011,Signal Processing,2,Autumn,Kuang Ye Chow,5,D
+A0009,Raj,Koothrapali,3/12/2000,ENG1040,Engineering Dynamics,1,Spring,Andrew Ng,5,A
